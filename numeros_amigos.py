@@ -26,7 +26,7 @@ def numeros_amigos(número1, número2):
 
 def main():
     número1 = 220
-    número2 = 284
+    número2 = 300
     resultado = numeros_amigos(número1, número2)
     print(resultado)
 
